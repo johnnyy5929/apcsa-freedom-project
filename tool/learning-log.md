@@ -1,8 +1,8 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: Godot
 
-## Project: **X**
+## Project: Mario cart
 
 ---
 
