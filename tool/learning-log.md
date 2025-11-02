@@ -10,7 +10,7 @@
 So I just started learning about these tools, so at first I went on the website to look around and watched videos. Afterwards, I started playing around with the tool.
 I downloaded it to my computer and now:
 I am making different shapes in both the 3D and 2D models.
-![]()
+![](Screenshot_2-11-2025_101915_docs.google.com.jpeg)
 ![]()
 ![]()
 ![]()
