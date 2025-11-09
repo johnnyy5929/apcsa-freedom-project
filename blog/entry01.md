@@ -5,6 +5,7 @@
 For this year-long project, I decided to use the tool Godot. Godot is a game engine where you can make 2D or 3D games. My backup tool was Swift, which is another tool for making games on the App Store. After doing my learning logs, I decided to stay with Godot as my tool. The reason I decided on Godot is that it feels just right for my skill level, and when I opened it, I was like booo and excited. For Godot, I was planning on making a racing game and working with Bryan. We just wanted to have fun in our senior year and enjoy life, so we are making a fun game that people can enjoy.
 
 I downloaded it to my computer and now:
+
 I am making different shapes in both the 3D and 2D models.
 ![](../tool/Screenshot_2-11-2025_101915_docs.google.com.jpeg)
 ![](../tool/Screenshot_2-11-2025_10196_docs.google.com.jpeg)
