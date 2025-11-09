@@ -4,7 +4,6 @@
 ## context
 For this year-long project, I decided to use the tool Godot. Godot is a game engine where you can make 2D or 3D games. My backup tool was Swift, which is another tool for making games on the App Store. After doing my learning logs, I decided to stay with Godot as my tool. The reason I decided on Godot is that it feels just right for my skill level, and when I opened it, I was like booo and excited. For Godot, I was planning on making a racing game and working with Bryan. We just wanted to have fun in our senior year and enjoy life, so we are making a fun game that people can enjoy.
 
-I downloaded it to my computer and now:
 
 I am making different shapes in both the 3D and 2D models.
 ![](../tool/Screenshot_2-11-2025_101915_docs.google.com.jpeg)
@@ -16,18 +15,18 @@ I am making different shapes in both the 3D and 2D models.
 
 
 
-
+## sources 
    
 ## EDP 
-EDP or Engineering Design Process is the part of the project you are on. I am on the brainstorming and planning part where I need to think of how I can make a website and ways this game can make being fun and learn how to drive. 
+EDP or Engineering Design Process is the part of the project you are on. I am on the brainstorming and planning part, where I need to think of how I can make a game and find ways to make this game fun, and learn how to drive. 
 
 ## skills
 
 ### 1. Research
-I had to do research before choosing a tool. I learned a lot about researching, like how to Google well and find what you are looking for. Like when I was looking up three.js videos, I couldn't find a lot, but I had to search for more information to find what I was looking for. The website helped me since it provides many links and resources.
+I had to do my research before choosing a tool. I learned a lot about researching, like how to Google well and find what you are looking for. Looking up Godot videos, I couldn't find a lot for people who are starting, but I had to search for more information to find what I was looking for. The Godot app helped me since it provides many links and resources, but you had to look for them.
 
 ### 2. Communication
-While researching, I've noticed that communication is a very important part because to work together is to communicate. We need to communicate in order to make changes while advancing in technology. Communication is how we share ideas and knowledge. Also, when I needed help, I asked my friends, like I asked Johnny how Kaboom works at first, and he was able to help me by providing examples and resources. Also,
+While researching, I've noticed that communication is a very important part because to work together is to communicate. We need to communicate in order to make changes while advancing in technology. Communication is how we share ideas and knowledge. Also, when I needed help, I asked my friends, like I asked Kyle how Godot works at first, and he was able to help me by providing examples and resources. Also, Kyle reminded me to do my Learning Log the 2nd time as I missed it the 1st time around.
 
 
 
