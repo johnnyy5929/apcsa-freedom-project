@@ -18,7 +18,7 @@ I am making different shapes in both the 3D and 2D models.
 ![](Screenshot_2-11-2025_101949_docs.google.com.jpeg)
 
 ### 11/16/2025:
-* Text
+So, for this week, I planned on tinkering with my tool more, so what I did was add more shapes and learned how to add words to the games. As we can see here:
 
 
 <!-- 
