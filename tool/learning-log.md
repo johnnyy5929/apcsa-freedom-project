@@ -20,10 +20,19 @@ I am making different shapes in both the 3D and 2D models.
 ### 11/16/2025:
 So, for this week, I planned on tinkering with my tool more, so what I did was add more shapes and learned how to add words to the games. As we can see here:
 
-1[](Screenshot_16-11-2025_163633_docs.google.com.jpeg)
+[](Screenshot_16-11-2025_163633_docs.google.com.jpeg)
 ![](Screenshot_16-11-2025_163641_docs.google.com.jpeg)
 
 So what I did was add words for both 2D and 3D models. So that is what I did for this week's Learning Log.
+
+
+### 11/23/2025:
+
+So for this week's Learning Log, what I did was change the background and how everything looks. I tinkered with the background and made different backgrounds for the 3D models, and changed the way the things looks:
+
+![](Screenshot_23-11-2025_18352_docs.google.com.jpeg)
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
