@@ -31,7 +31,9 @@ So what I did was add words for both 2D and 3D models. So that is what I did for
 So for this week's Learning Log, what I did was change the background and how everything looks. I tinkered with the background and made different backgrounds for the 3D models, and changed the way the things looks:
 
 ![](Screenshot_23-11-2025_18352_docs.google.com.jpeg)
+![](Screenshot_23-11-2025_18228_docs.google.com.jpeg)
 
+So this is what I did for this week's learning log. This will come in handy later when I need to change the background of everything and make a different background for our game later.
 
 <!-- 
 * Links you used today (websites, videos, etc)
