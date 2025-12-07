@@ -35,6 +35,26 @@ So for this week's Learning Log, what I did was change the background and how ev
 
 So this is what I did for this week's learning log. This will come in handy later when I need to change the background of everything and make a different background for our game later.
 
+### 12/7/2025:
+
+This week, I created a spirit and added animation to it.
+`````js
+extends Sprite2D
+
+var speed = 400
+var angular_speed = PI
+
+
+func _process(delta):
+	rotation += angular_speed * delta
+
+	var velocity = Vector2.UP.rotated(rotation) * speed
+
+	position += velocity * delta
+`````
+This is the code I used, and you can see it's moving.
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
