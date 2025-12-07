@@ -53,7 +53,10 @@ func _process(delta):
 	position += velocity * delta
 `````
 This is the code I used, and you can see it's moving.
-
+![](Screenshot_23-11-2025_18228_docs.google.com.jpeg)
+![](Screenshot_23-11-2025_18228_docs.google.com.jpeg)
+![](Screenshot_23-11-2025_18228_docs.google.com.jpeg)
+![](Screenshot_23-11-2025_18228_docs.google.com.jpeg)
 
 <!-- 
 * Links you used today (websites, videos, etc)
