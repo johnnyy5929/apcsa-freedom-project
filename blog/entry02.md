@@ -12,7 +12,14 @@ I am making different shapes in both the 3D and 2D models.
 ![](../tool/Screenshot_2-11-2025_101940_docs.google.com.jpeg)
 ![](../tool/Screenshot_2-11-2025_101957_docs.google.com.jpeg)
 ![](../tool/Screenshot_2-11-2025_101949_docs.google.com.jpeg)
-
+[](../tool/Screenshot_16-11-2025_163633_docs.google.com.jpeg)
+![](../tool/Screenshot_16-11-2025_163641_docs.google.com.jpeg)
+![](../tool/Screenshot_23-11-2025_18352_docs.google.com.jpeg)
+![](../tool/Screenshot_23-11-2025_18228_docs.google.com.jpeg)
+![](../tool/Screenshot_7-12-2025_103142_docs.google.com.jpeg)
+![](../tool/Screenshot_7-12-2025_10321_docs.google.com.jpeg)
+![](../tool/Screenshot_7-12-2025_103239_docs.google.com.jpeg)
+![](../tool/Screenshot_7-12-2025_10328_docs.google.com.jpeg)
 
 
 ## Sources 
