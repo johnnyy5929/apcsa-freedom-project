@@ -21,6 +21,7 @@ I am making different shapes in both the 3D and 2D models.
 ![](../tool/Screenshot_7-12-2025_103239_docs.google.com.jpeg)
 ![](../tool/Screenshot_7-12-2025_10328_docs.google.com.jpeg)
 
+So this is what I have been doing, which you can see in the learning logs and how I been learning them.
 
 ## Sources 
 So one of the tools I used was the Learning Logs.[learning log.md](../tool/learning-log.md). This is where I put everything I learned and explain what I did, and I have added to this each week. Second, I used many videos like [Godot video](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=06E46AEA6253FB5EBB5F06E46AEA6253FB5EBB5F&&FORM=VRDGAR), [Godot video](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=842503585F8EDF547044842503585F8EDF547044&&FORM=VRDGAR) and [Last one](https://www.bing.com/videos/riverview/relatedvideo?q=godot&&mid=01A5C13D2D83499014DE01A5C13D2D83499014DE&FORM=VCGVRP). These videos help with getting an understanding of how to use the app and the ways of making games. This is everything I used. I shared this with my teammate so we can understand what each of us should have learned from here.
