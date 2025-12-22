@@ -31,8 +31,16 @@ EDP or Engineering Design Process is the part of the project you are on. I am st
 
 ## skills
 
+The skills I learned are the same as last time
+1. Research
+Research is really important; you get a lot of good information from it. Like when I was researching the tool I was using. I found ways of using it differently and how to connect different tools with it. So research is one of the most important things. 
+
+2. Communication
+While researching, I've noticed that communication is a very important part because to work together is to communicate. We need to communicate to make changes while advancing in technology. Communication is how we share ideas and knowledge. Like for the freedom project, I have a partner, so we must communicate, as for this blog, both of us communicated and were talking about what we should do over the break. So now our plans. 
 
 ##### Break plans 
+We were planning on making models of the cars, making bots, and makingit  so the player can move. The most important part is making the models and adding them. This is the overall idea we had for the break, and we be coding a bit. So this was our plans for the winter break. 
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
