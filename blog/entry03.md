@@ -36,7 +36,7 @@ func _process(delta):
 	position += velocity * delta
 
 `````
-
+So as you can see from the images and the code. I made it so the player themselves can control the movements using the arrow keys, like we can see how they move, and the code that does this, which is shown. 
 ## Sources 
 So one of the sources I used was the Learning Logs. [learning log.md](../tool/learning-log.md). This is where I compile everything I've learned and explain what I've done, which is updated weekly. Second, I used many videos like [Godot video](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=06E46AEA6253FB5EBB5F06E46AEA6253FB5EBB5F&&FORM=VRDGAR), [Godot video](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=842503585F8EDF547044842503585F8EDF547044&&FORM=VRDGAR) and [Last one](https://www.bing.com/videos/riverview/relatedvideo?q=godot&&mid=01A5C13D2D83499014DE01A5C13D2D83499014DE&FORM=VCGVRP). These videos help with getting an understanding of how to use the app and the ways of making games. This is everything I used. I shared this with my teammate so we can understand what each of us should have learned from here.
 
