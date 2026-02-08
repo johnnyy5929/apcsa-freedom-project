@@ -4,6 +4,16 @@
 For this year-long project, I decided to use Godot as my tool. Godot is a game engine where you can make 2D or 3D games. After doing my learning logs, I decided to stay with Godot as my tool. For Godot, I planned to create a racing game and collaborate with Bryan. We been talking to each other outside of school and talk to each other in school about what we have done. For now, I have done many learning logs and learned many new things about how this tool is used and how to make our freedom project from it. Below you can see what I learned so far. 
 
 ##### What I have done
+
+
+Screenshot_8-2-2026_182622_docs.google.com.jpeg
+Screenshot_8-2-2026_18268_docs.google.com.jpeg
+Screenshot_8-2-2026_18263_docs.google.com.jpeg
+Screenshot_8-2-2026_182558_docs.google.com.jpeg
+Screenshot_8-2-2026_182551_docs.google.com.jpeg
+Screenshot_8-2-2026_182539_docs.google.com.jpeg
+Screenshot_8-2-2026_182534_docs.google.com.jpeg
+Screenshot_8-2-2026_182720_docs.google.com.jpeg
 ````` js
 extends Sprite2D
 
