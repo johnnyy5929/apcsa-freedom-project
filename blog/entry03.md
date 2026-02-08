@@ -5,15 +5,14 @@ For this year-long project, I decided to use Godot as my tool. Godot is a game e
 
 ##### What I have done
 
-
-Screenshot_8-2-2026_182622_docs.google.com.jpeg
-Screenshot_8-2-2026_18268_docs.google.com.jpeg
-Screenshot_8-2-2026_18263_docs.google.com.jpeg
-Screenshot_8-2-2026_182558_docs.google.com.jpeg
-Screenshot_8-2-2026_182551_docs.google.com.jpeg
-Screenshot_8-2-2026_182539_docs.google.com.jpeg
-Screenshot_8-2-2026_182534_docs.google.com.jpeg
-Screenshot_8-2-2026_182720_docs.google.com.jpeg
+![](../tool/Screenshot_8-2-2026_182622_docs.google.com.jpeg)
+![](../tool/Screenshot_8-2-2026_18268_docs.google.com.jpeg)
+![](../tool/Screenshot_8-2-2026_18263_docs.google.com.jpeg)
+![](../tool/Screenshot_8-2-2026_182558_docs.google.com.jpeg)
+![](../tool/Screenshot_8-2-2026_182551_docs.google.com.jpeg)
+![](../tool/Screenshot_8-2-2026_182539_docs.google.com.jpeg)
+![](../tool/Screenshot_8-2-2026_182534_docs.google.com.jpeg)
+![](../tool/Screenshot_8-2-2026_182720_docs.google.com.jpeg)
 ````` js
 extends Sprite2D
 
