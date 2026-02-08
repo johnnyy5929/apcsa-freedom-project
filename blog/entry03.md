@@ -1,7 +1,7 @@
 # Entry 3
 ##### 2/8/2026
 ## context
-For this year-long project, I decided to use the tool Godot. Godot is a game engine where you can make 2D or 3D games. My backup tool was Swift, which is another tool for making games on the App Store. After doing my learning logs, I decided to stay with Godot as my tool. For Godot, I planned to create a racing game and collaborate with Bryan. We just wanted to have fun in our senior year and enjoy life, so we are making a fun game that people can enjoy. So we started talking about what we should do during break and decided that we both will learn more code, do more on Godot, and start making models of the cars that we will be adding. 
+For this year-long project, I decided to use Godot as my tool. Godot is a game engine where you can make 2D or 3D games. After doing my learning logs, I decided to stay with Godot as my tool. For Godot, I planned to create a racing game and collaborate with Bryan. We been talking to each other outside of school and talk to each other in school about what we have done. For now, I have done many learning logs and learned many new things about how this tool is used and how to make our freedom project from it. Below you can see what I learned so far. 
 
 ##### What I have done
 
