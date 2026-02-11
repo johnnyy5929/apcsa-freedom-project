@@ -1,21 +1,31 @@
 # Plan
 
-## Tool: 
-## Product: 
+## Tool: Godot
+## Product: Racing game
 
 ---
 
 ## Timeline
+- [ ] learn more code on Godot (every week)(both) 
+- [ ] make a prototype (2/23)(both)
+- [ ] Fix up all the bugs in the prototype(3/16)
 
 #### MVP
 
-- [ ] Task (deadline: X)
-  - [ ] Subtask (deadline: X)
+ - [ ] Make different stages/race tracks (deadline: 2/23)(Brayan)
+ - [ ] Addding movement (deadline: 2/23 )(Johnny)
+ - [ ] Add texture(deadline: 2/28)(Brayan)
+
 
 #### Beyond MVP
 
-- [ ] Task
-  - [ ] Subtask
+  - [ ] Adding more features 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
 
 
 <!-- EXAMPLE
