@@ -11,21 +11,19 @@
 - [ ] Fix up all the bugs in the prototype(3/16)
 
 #### MVP
-
+ - [ ] Make different sprite for the racecars(deadline: 2/23)(Johnny)
  - [ ] Make different stages/race tracks (deadline: 2/23)(Brayan)
  - [ ] Addding movement (deadline: 2/23 )(Johnny)
- - [ ] Add texture(deadline: 2/28)(Bryan)
+ - [ ] Add texture to the land and map(deadline: 2/28)(Bryan)
 
 
 #### Beyond MVP
 
   - [ ] Adding more features 
-  - [ ] 
-  - [ ] 
-  - [ ] 
-  - [ ] 
-  - [ ] 
-  - [ ] 
+  - [ ] Making the stages into 3D(Bryan)
+  - [ ] Making the sprite into 3D(Johnny)
+  - [ ] Adding a map feature where you can see where other cars are(Johnny)
+  - [ ] Adding a crashing feature(Bryan)
 
 
 <!-- EXAMPLE
