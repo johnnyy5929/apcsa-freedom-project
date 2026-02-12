@@ -14,7 +14,7 @@
 
  - [ ] Make different stages/race tracks (deadline: 2/23)(Brayan)
  - [ ] Addding movement (deadline: 2/23 )(Johnny)
- - [ ] Add texture(deadline: 2/28)(Brayan)
+ - [ ] Add texture(deadline: 2/28)(Bryan)
 
 
 #### Beyond MVP
