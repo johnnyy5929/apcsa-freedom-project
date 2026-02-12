@@ -14,9 +14,12 @@
 
 #### MVP
  - [ ] Make different sprite for the racecars(deadline: 2/23)(Johnny)
- - [ ] Make different stages/race tracks (deadline: 2/23)(Brayan)
+ - [ ] Make different stages/race tracks (deadline: 2/23)(Bryan)
  - [ ] Addding movement (deadline: 2/23 )(Johnny)
  - [ ] Add texture to the land and map(deadline: 2/28)(Bryan)
+ - [ ] Add numbered features
+   - [ ] A timer with a limit (deadline: 3/1)(Bryan)
+   - [ ] A value with the current position (deadline: 3/1)(Johnny)
 
 
 #### Beyond MVP
