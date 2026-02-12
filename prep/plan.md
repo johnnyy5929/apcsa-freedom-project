@@ -6,7 +6,9 @@
 ---
 
 ## Timeline
-- [ ] learn more code on Godot (every week)(both) 
+- [ ] learn more code on Godot (every week)(both)
+- [ ] finish the plan by 2/13 (both)
+- [ ] finish planning/outline freedom project by 2/20 (both)
 - [ ] make a prototype (2/23)(both)
 - [ ] Fix up all the bugs in the prototype(3/16)
 
