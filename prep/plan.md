@@ -14,8 +14,10 @@
 
 #### MVP
  - [ ] Make different sprite for the racecars(deadline: 2/23)(Johnny)
- - [ ] Make different stages/race tracks (deadline: 2/23)(Bryan)
- - [ ] Addding movement (deadline: 2/23 )(Johnny)
+   - [ ] One user and 3-4 bots
+ - [ ] Make a stage/race track (deadline: 2/23)(Bryan)
+ - [ ] Adding movement (deadline: 2/23 )(Johnny)
+   - [ ] Make the user move with arrow & WASD keys. 
  - [ ] Add texture to the land and map(deadline: 2/28)(Bryan)
  - [ ] Add numbered features
    - [ ] A timer with a limit (deadline: 3/1)(Bryan)
