@@ -10,7 +10,7 @@
 - [ ] finish the plan by 2/13 (both)
 - [ ] finish planning/outline freedom project by 2/20 (both)
 - [ ] make a prototype (2/23)(both)
-- [ ] Fix up all the bugs in the prototype(3/16)
+- [ ] Fix up all the bugs in the prototype(3/16)(Both)
 
 #### MVP
  - [ ] Make different sprite for the racecars(deadline: 2/23)(Johnny)
