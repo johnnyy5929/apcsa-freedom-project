@@ -1,5 +1,5 @@
-# Entry 4
-##### X/X/XX
+# Entry 4: MVP Progress
+##### 3/9/26
 
 Text
 
