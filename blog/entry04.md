@@ -5,7 +5,18 @@
 For this year-long project, I decided to use Godot as my tool. Godot is a game engine where you can make 2D or 3D games. After doing my learning logs, I decided to stay with Godot as my tool. For Godot, I planned to create a racing game and collaborate with Bryan. We've been talking to each other outside of school and talking to each other in school about what we have done. Until now, we had a plan for our MVP, and started our prototype, which you can see at the bottom. 
 
 ##### What I have done
-
+[](Screenshot_15-3-2026_95811_docs.google.com.jpeg)
+Screenshot_15-3-2026_9587_docs.google.com.jpeg
+Screenshot_15-3-2026_9582_docs.google.com.jpeg
+Screenshot_15-3-2026_95756_docs.google.com.jpeg
+Screenshot_15-3-2026_95752_docs.google.com.jpeg
+Screenshot_15-3-2026_95744_docs.google.com.jpeg
+Screenshot_15-3-2026_95739_docs.google.com.jpeg
+Screenshot_15-3-2026_95735_docs.google.com.jpeg
+Screenshot_15-3-2026_95726_docs.google.com.jpeg
+Screenshot_15-3-2026_95731_docs.google.com.jpeg
+Screenshot_15-3-2026_95723_docs.google.com.jpeg
+Screenshot_15-3-2026_95717_docs.google.com.jpeg
 
 ## Sources 
 So one of the sources I used was the Learning Logs. [learning log.md](../tool/learning-log.md). This is where I compile everything I've learned and explain what I've done, which is updated weekly. Second, I used many videos like [Godot video](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=06E46AEA6253FB5EBB5F06E46AEA6253FB5EBB5F&&FORM=VRDGAR), [Godot video](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=842503585F8EDF547044842503585F8EDF547044&&FORM=VRDGAR) and [Last one](https://www.bing.com/videos/riverview/relatedvideo?q=godot&&mid=01A5C13D2D83499014DE01A5C13D2D83499014DE&FORM=VCGVRP). These videos help with getting an understanding of how to use the app and the ways of making games. This is everything I used. I shared this with my teammate so we can understand what each of us should have learned from here.
