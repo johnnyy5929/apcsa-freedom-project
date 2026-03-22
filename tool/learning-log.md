@@ -59,7 +59,14 @@ This is the code I used, and you can see it's moving.
 ![](Screenshot_7-12-2025_10328_docs.google.com.jpeg)
 
 Now you can see how it is going around in a circle and how I was able to make it move. 
-This is what I did for this weeks Learningt Log.
+This is what I did for this week's Learning Log.
+
+
+
+
+### 3/22/2026
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
