@@ -66,6 +66,10 @@ This is what I did for this week's Learning Log.
 
 ### 3/22/2026
 
+This week, I created a
+
+
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
