@@ -66,7 +66,20 @@ This is what I did for this week's Learning Log.
 
 ### 3/22/2026
 
-This week, I created a
+This week, I created two different spirits that can be controlled with one keyboard.
+
+![](Screenshot_15-3-2026_95811_docs.google.com.jpeg)
+![](Screenshot_15-3-2026_9587_docs.google.com.jpeg)
+![]Screenshot_15-3-2026_9582_docs.google.com.jpeg)
+![](Screenshot_15-3-2026_95756_docs.google.com.jpeg)
+![](Screenshot_15-3-2026_95752_docs.google.com.jpeg)
+![](Screenshot_15-3-2026_95744_docs.google.com.jpeg)
+![](Screenshot_15-3-2026_95739_docs.google.com.jpeg)
+![](Screenshot_15-3-2026_95735_docs.google.com.jpeg)
+![](Screenshot_15-3-2026_95726_docs.google.com.jpeg)
+![](Screenshot_15-3-2026_95731_docs.google.com.jpeg)
+![](Screenshot_15-3-2026_95723_docs.google.com.jpeg)
+![](Screenshot_15-3-2026_95717_docs.google.com.jpeg)
 
 
 
