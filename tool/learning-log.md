@@ -77,6 +77,10 @@ This week, I created two different sprites that can be controlled with one keybo
 
 So I learned how to combine more sprites and make it so they all control from one keyboard. I also made it so there are blocks that, when you crash into them, stop you. My next goal is to make it so the map bigger and so that there is a race that goes on in the game. This is what I did for this week's learning log. 
 
+### 3/23/2026
+
+This week, I been watching video and making what they have on those videos. 
+https://www.youtube.com/watch?v=q7wlSvt0JIc&t=3s
 
 
 <!-- 
@@ -86,3 +90,5 @@ So I learned how to combine more sprites and make it so they all control from on
 * Questions you still have
 * What you're going to try next
 -->
+
+
