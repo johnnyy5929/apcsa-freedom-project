@@ -79,8 +79,11 @@ So I learned how to combine more sprites and make it so they all control from on
 
 ### 3/23/2026
 
-This week, I been watching video and making what they have on those videos. 
+This week, I have been watching videos and making notes on what they have in those videos. 
 https://www.youtube.com/watch?v=q7wlSvt0JIc&t=3s
+
+Also, I made a background and made it so the camera follows my sprites. 
+
 
 
 <!-- 
