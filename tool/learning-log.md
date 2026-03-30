@@ -75,7 +75,7 @@ This week, I created two different sprites that can be controlled with one keybo
 ![](Screenshot_15-3-2026_95744_docs.google.com.jpeg)
 ![](Screenshot_15-3-2026_95739_docs.google.com.jpeg)
 
-So I learned how to combine more sprites and make it so they all control from one keyboard. I also made it so there are blocks that, when you crash into them, stop you. My next goal is to make it so the map bigger and so that there is a race that goes on in the game. This is what I did for this week's learning log. 
+So I learned how to combine more sprites and make it so they all control from one keyboard. I also made it so there are blocks that, when you crash into them, stop you. My next goal is to make the map bigger so that there is a race that goes on in the game. This is what I did for this week's learning log. 
 
 ### 3/23/2026
 
@@ -84,10 +84,14 @@ https://www.youtube.com/watch?v=q7wlSvt0JIc&t=3s
 
 Also, I made a background and made it so the camera follows my sprites. 
 
+![](Screenshot_29-3-2026_211457_docs.google.com.jpeg)
 
+![](Screenshot_29-3-2026_21152_docs.google.com.jpeg)
+
+So, as you can see here, I used the camera code to make them follow the sprite and made the background. The only problem is that the camera sometimes doesn't follow them, so I need to fix this problem next week, so the camera works next time. 
 
 <!-- 
-* Links you used today (websites, videos, etc)
+* Links you used today (websites, videos, etc.)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
 * Questions you still have
