@@ -90,12 +90,12 @@ func _on_finish_line_area_entered(area: Area2D) -> void:
 
 `````
 
-So, what I did for my freedom project is that I made the track, the car and made it so when you hit the track walls you get kicked back and you have to wait a second to go on. I write this code above where you can see this and made it so when you finish the race it tells you that you finish. 
+So, what I did for my freedom project is that I made the track, the car, and made it so when you hit the track walls, you get kicked back, and you have to wait a second to go on. I wrote the code above, where you can see this, and made it so that when you finish the race, it tells you that you finish. 
 ## Sources 
 So one of the sources I used was the Learning Logs. [learning log.md](../tool/learning-log.md). This is where I compile everything I've learned and explain what I've done, which is updated weekly. Second, I used many videos like [Godot video](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=06E46AEA6253FB5EBB5F06E46AEA6253FB5EBB5F&&FORM=VRDGAR), [Godot video](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=842503585F8EDF547044842503585F8EDF547044&&FORM=VRDGAR) and [Last one](https://www.bing.com/videos/riverview/relatedvideo?q=godot&&mid=01A5C13D2D83499014DE01A5C13D2D83499014DE&FORM=VCGVRP). These videos help with getting an understanding of how to use the app and the ways of making games, also one of the videos shows me how to make a racing game and I watch those video to help me out. 
 
 ## EDP 
-EDP or Engineering Design Process is the part of the project you are on. I am still on the prototype phase; however, this time I finished the coding part and am now making improvements on my project. 
+EDP or Engineering Design Process is the part of the project you are on. I am still in the prototype phase; however, this time I finished the coding part and am now making improvements to my project. 
 ## skills
 
 The skills I learned are the same as last time
@@ -106,8 +106,10 @@ Research is really important; you get a lot of good information from it. Like wh
 While researching, I've noticed that communication is a very important part because to work together is to communicate. We need to communicate to make changes while advancing in technology. Communication is how we share ideas and knowledge. Like for the freedom project, I have a partner, so we must communicate, as for this blog, both of us communicated and were talking about what we should do over the week.
 
 3. AI
-I have learned one more thing, which is that AI isn't that bad sometimes if you use it for the right things, like asking it questions that can later guide you to the answers you want. Don't use the tool to do it for you, but instead use it to give you ideas and help you out with questions you might have that you couldn't get. So these are the skills I learned so far, and I will be adding more to this on my next blog.
+I have learned one more thing, which is that AI isn't that bad sometimes if you use it for the right things, like asking it questions that can later guide you to the answers you want. Don't use the tool to do it for you; instead, use it to give you ideas and help with questions you might have that you couldn't get answers to. These are the skills I've learned so far, and I will be adding more to this in my next blog.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
+
+
