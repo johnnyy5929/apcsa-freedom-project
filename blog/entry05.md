@@ -75,9 +75,24 @@ func hit_boundary() -> void:
 	bounce()
 
 `````
+````` js
+extends Node
 
+class_name Track
+
+
+func _on_track_area_entered(area: Area2D) -> void:
+	if area is Car: area.hit_boundary()
+
+
+func _on_finish_line_area_entered(area: Area2D) -> void:
+	if area is Car: area.lap_completed()
+
+`````
+
+So, what I did for my freedom project is that I made the track, the car and made it so when you hit the track walls you get kicked back and you have to wait a second to go on. I write this code above where you can see this and made it so when you finish the race it tells you that you finish. 
 ## Sources 
-So one of the sources I used was the Learning Logs. [learning log.md](../tool/learning-log.md). This is where I compile everything I've learned and explain what I've done, which is updated weekly. Second, I used many videos like [Godot video](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=06E46AEA6253FB5EBB5F06E46AEA6253FB5EBB5F&&FORM=VRDGAR), [Godot video](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=842503585F8EDF547044842503585F8EDF547044&&FORM=VRDGAR) and [Last one](https://www.bing.com/videos/riverview/relatedvideo?q=godot&&mid=01A5C13D2D83499014DE01A5C13D2D83499014DE&FORM=VCGVRP). These videos help with getting an understanding of how to use the app and the ways of making games. Last of all, I used AI as a way of giving me videos to watch on something I need, like trying to make it move without Arrows was hard, and I didn't know where to look, so AI told me to change the settings to help me out, which worked. 
+So one of the sources I used was the Learning Logs. [learning log.md](../tool/learning-log.md). This is where I compile everything I've learned and explain what I've done, which is updated weekly. Second, I used many videos like [Godot video](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=06E46AEA6253FB5EBB5F06E46AEA6253FB5EBB5F&&FORM=VRDGAR), [Godot video](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=842503585F8EDF547044842503585F8EDF547044&&FORM=VRDGAR) and [Last one](https://www.bing.com/videos/riverview/relatedvideo?q=godot&&mid=01A5C13D2D83499014DE01A5C13D2D83499014DE&FORM=VCGVRP). These videos help with getting an understanding of how to use the app and the ways of making games, also one of the videos shows me how to make a racing game and I watch those video to help me out. 
 
 ## EDP 
 EDP or Engineering Design Process is the part of the project you are on. I am still on the prototype phase; however, this time I finished the coding part and am now making improvements on my project. 
