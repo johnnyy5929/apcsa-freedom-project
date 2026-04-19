@@ -2,7 +2,7 @@
 ##### 4/19/2026
 
 ## context
-For this year-long project, I decided to use Godot as my tool. Godot is a game engine for making 2D or 3D games. After doing my learning logs, I decided to stay with Godot as my tool. For Godot, I planned to create a racing game and collaborate with Bryan. We've been talking to each other outside of school and in school about what we have done. Until now, we had a plan for our MVP, and started our prototype, which you can see at the bottom. 
+For this year-long project, I decided to use Godot as my tool. Godot is a game engine for making 2D or 3D games. After doing my learning logs, I decided to stay with Godot as my tool. My partner and I planned to create a racing game. We decided to use the 2D mode for this on Godot, as we wanted to make a 2D top-down racing game. We've been talking to each other outside of school and in school about what we have done. Until now, we had a plan for our MVP, and started our prototype, which you can see at the bottom. 
 
 ##### What I have done, so over the break, I finished my MVP, which you can see below. 
  
