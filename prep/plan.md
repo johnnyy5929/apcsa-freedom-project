@@ -26,6 +26,10 @@
 
 #### Beyond MVP
 
+  - [ ] Add a timer
+  - [ ] Add another player that can run with WASD keys.
+  - [ ] Add a computer racer
+  - [ ] Add different cars that players can select.
   - [ ] Adding more features 
   - [ ] Making the stages into 3D(Bryan)
   - [ ] Making the sprite into 3D(Johnny)
