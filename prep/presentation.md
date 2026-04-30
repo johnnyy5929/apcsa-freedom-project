@@ -13,10 +13,11 @@
 * Show and explain some of our code, such as functions
 * Explain what we did for the Beyond MVP
 * Include challenges (making the track, adding a timer to start and while it runs, making laps)
+  * Other Challenges: Learning Godot at first was hard, communication, and being a senior who is slacking.
+
 
 ## Conclusion
 * Link to our project
-* Challenges: Learning Godot at first was hard, communication, and being a senior who is slacking.
 * Takeaways: LOYO is very important and helpful, communication is key, and time management is important
 * "Let's race to the finish line!"
 
