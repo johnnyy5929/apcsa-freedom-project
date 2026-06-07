@@ -1,4 +1,4 @@
-# Entry 6 or 7?????
+# Entry 6-7
 ##### 6/7/2026
 
 ## Content 
