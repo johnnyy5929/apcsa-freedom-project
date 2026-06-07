@@ -90,12 +90,12 @@ func _on_finish_line_area_entered(area: Area2D) -> void:
 
 ## Takeaways of the Expo elevator pitch
 
-One takeaway is that I should make more eye contact. In my opinion, I feel like this year I did really good at the eye contact but still it is something I should work on. 
+One takeaway is that I should make more eye contact. In my opinion, I feel like this year I did really well at eye contact but still it is something I should work on. 
 
-The last takeaway was that you should be prepared before the pitch. This year, we didn't really pratice much which made it hard for us when we were doing the pitch as we didn't know who was which part. These are the takeaways for the elevator pitch. 
+The last takeaway was that you should be prepared before the pitch. This year, we didn't really practice much which made it hard for us when we were doing the pitch as we didn't know who was which part. These are the takeaways for the elevator pitch. 
 
 ## Takeaways of in-class presentation 
-One takeaway from the class presentation is that I should spend some time praticing, if you don't pratice much it is hard for you to know which part you are doing. Like, I didn't say thank you at the end which my partner did. 
+One takeaway from the class presentation is that I should spend some time practicing, if you don't practice much it is hard for you to know which part you are doing. Like, I didn't say thank you at the end which my partner did. 
 
 Another takeaway is that I should make more eye contact. In my opinion, I feel like I didn't look around enough. I feel that when I was talking, I was just looking at my computer, which isn't good because I don't know what people were thinking when I was presenting, and I wouldn't know if they could hear me. These are my takeaways for the class presentation.
 
@@ -103,3 +103,5 @@ Another takeaway is that I should make more eye contact. In my opinion, I feel l
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
+
+
