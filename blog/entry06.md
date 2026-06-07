@@ -90,16 +90,14 @@ func _on_finish_line_area_entered(area: Area2D) -> void:
 
 ## Takeaways of the Expo elevator pitch
 
-One takeaway is that I should make more eye contact. In my opinion, I feel like I didn't look around enough. I feel that when I was talking to the teachers, I was just looking at my computer, which isn't good because I don't know what people were thinking when I was presenting, and I wouldn't know if they could hear me. This is the first takeaway. 
+One takeaway is that I should make more eye contact. In my opinion, I feel like this year I did really good at the eye contact but still it is something I should work on. 
 
-The last takeaway was that you should be prepared before the pitch. If we weren't ready, we wouldn't know who is doing what and what part is whose. This is something I was making sure we do before we present. Which made it so that it went smoothly. These are the takeaways for the class pitch, and there were takeaways for the class presentation. We know who was doing which part of it, so when we were talking, it went well. 
+The last takeaway was that you should be prepared before the pitch. This year, we didn't really pratice much which made it hard for us when we were doing the pitch as we didn't know who was which part. These are the takeaways for the elevator pitch. 
 
 ## Takeaways of in-class presentation 
-One takeaway from the class presentation  is that I should spend some time thinking of a hook. I lost points because my hook wasn't the best, so I should have spent more time on my hook and made it interesting. 
+One takeaway from the class presentation is that I should spend some time praticing, if you don't pratice much it is hard for you to know which part you are doing. Like, I didn't say thank you at the end which my partner did. 
 
-Another takeaway is that I should make more eye contact. In my opinion, I feel like I didn't look around enough. I feel that when I was talking, I was just looking at my computer, which isn't good because I don't know what people were thinking when I was presenting, and I wouldn't know if they could hear me.
-
-The last takeaway was that you should be prepared before presenting in class. If we weren't ready, we wouldn't know who is doing what and what part is whose. This is something I was making sure we do before we present. Which made it so that it went smoothly. Therefore, we know what to do next time, and these are my takeaways. Now we learned for next time.
+Another takeaway is that I should make more eye contact. In my opinion, I feel like I didn't look around enough. I feel that when I was talking, I was just looking at my computer, which isn't good because I don't know what people were thinking when I was presenting, and I wouldn't know if they could hear me. These are my takeaways for the class presentation.
 
 
 [Previous](entry05.md) | [Next](entry07.md)
