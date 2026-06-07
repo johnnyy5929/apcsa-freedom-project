@@ -4,7 +4,10 @@
 ## Content 
 This is my blog 6. Throughout this school year, we had a year long project, which is theFreedom ProjectW we had to pick a tool and learn how to use it. We have coded an MVP up to this point, which is like a start to our project. After we did our beyond MVP which is making the game better. So the tool that I picked was Godot. So one of the sources I used was the Learning Logs.[learning log.md](../tool/learning-log.md). This is where I compile everything I've learned and explain what I've done, which is updated weekly. Second, I used many videos like [Godot video](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=06E46AEA6253FB5EBB5F06E46AEA6253FB5EBB5F&&FORM=VRDGAR), [Godot video](https://www.bing.com/videos/riverview/relatedvideo?&q=godot&&mid=842503585F8EDF547044842503585F8EDF547044&&FORM=VRDGAR) and [Last one](https://www.bing.com/videos/riverview/relatedvideo?q=godot&&mid=01A5C13D2D83499014DE01A5C13D2D83499014DE&FORM=VCGVRP). These videos help with getting an understanding of how to use the app and the ways of making games, also one of the videos shows me how to make a racing game and I watch those video to help me out.  We had to make an elevator pitch and slides for our project. [Elevator pitch](https://docs.google.com/presentation/d/1Xha94trtsnaLeQvmWcMES36a6DfrxwlJvhMviE1Zjt8/edit) and the [THE SLIDES](https://docs.google.com/presentation/d/1toVzYBiBoBgLdgQ-t5FVJ-HRmxbUwU7pVsGvUUsiFGc/edit). 
 
-
+![](../tool/IMG_5907.jpg)
+![](../tool/IMG_5906.jpg)
+![](../tool/IMG_5904.jpg)
+![](../tool/IMG_5905.jpg)
 ### My code
 
 
