@@ -9,7 +9,10 @@ This is my blog 6. Throughout this school year, we had a year long project, whic
 ![](../tool/IMG_5904.jpg)
 ![](../tool/IMG_5905.jpg)
 ### My code
+`````js
 
+
+`````
 
 ## Takeaways of the Expo elevator pitch
 
