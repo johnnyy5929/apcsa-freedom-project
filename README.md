@@ -1,22 +1,26 @@
 # APCSA Freedom Project
-by **X**
+by Johnny Yang
 
 ## Context
-I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for AP Computer Science A is a year-long project all about making anything using technology.
+Context
+I am a student at HSTAT in the Software Engineering Program. The "Freedom Project" for AP Computer Science A is a year-long project all about making anything using technology.
 
-For my project, I chose to independently study **X** in order to help me make **X**.
+For my project, I chose to use Godot with my partner in order to help me make a car racing game. The game has two players, one car moves with WASD keys while the other moves with the Arrow keys excluding the down-arrow key. We added a collision detection to determine when a racer passes the finish line to end a lap or win the race. This gets printed along with the time they passed.
 
-## Links
+Links
+Product
 
-[Product]()
+Presentation
 
-[Presentation]()
-
-## Implications
+Implications
 ##### PROS
-* 
+Environment - It is online so it would use less materials to play and advertise.
+Relationships - People can connect as it is a two-player game and they can have fun which builds strong bonds.
+Individual - Can help people form a desire to learn to code or even inspire some to pursue a dream of becoming a racer.
 ##### CONS
-* 
+Culture - High potential of leading to longer use of electronic devices (computers, phones) and less learning.
+Finance - Can potentially lead to other game companies losing money since the game is free.
+Jobs - My game doesn't provide jobs or help facilitate them as its main purpose is entertainment.
 
 
 ## Blog
