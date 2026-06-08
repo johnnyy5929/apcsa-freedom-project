@@ -10,7 +10,7 @@ For my project, I chose to use Godot with my partner in order to help me make a 
 Links
 Product
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1toVzYBiBoBgLdgQ-t5FVJ-HRmxbUwU7pVsGvUUsiFGc/edit). 
 
 Implications
 ##### PROS
